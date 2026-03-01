@@ -63,6 +63,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/eva_unit1_black.png" width="300">
   <img src="assets/evangelion.png" width="300">
   <img src="assets/fenny_snowbreak.jpg" width="300">
+  <img src="assets/firefly.jpg" width="300">
   <img src="assets/forest.jpg" width="300">
   <img src="assets/frieren.jpg" width="300">
   <img src="assets/futuristic_city.jpg" width="300">
@@ -115,6 +116,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/shorekeeper.jpg" width="300">
   <img src="assets/stellaron_hunters.jpg" width="300">
   <img src="assets/texas_arknights.jpg" width="300">
+  <img src="assets/toji_black.png" width="300">
   <img src="assets/totoro.jpg" width="300">
   <img src="assets/train_wreck.jpg" width="300">
 </p>
