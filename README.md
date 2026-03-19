@@ -119,6 +119,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/toji_black.png" width="300">
   <img src="assets/totoro.jpg" width="300">
   <img src="assets/train_wreck.jpg" width="300">
+  <img src="assets/yachiyo.png" width="300">
 </p>
 
 <p align="center">
