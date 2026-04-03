@@ -55,6 +55,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/cartethyia.jpeg" width="300">
   <img src="assets/chainsaw_man_spacesuit.jpg" width="300">
   <img src="assets/changli.png" width="300">
+  <img src="assets/changli_2.jpeg" width="300">
   <img src="assets/chisa_ripple.jpg" width="300">
   <img src="assets/chisato.jpeg" width="300">
   <img src="assets/columbina.jpg" width="300">
@@ -119,7 +120,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/toji_black.png" width="300">
   <img src="assets/totoro.jpg" width="300">
   <img src="assets/train_wreck.jpg" width="300">
-  <img src="assets/yachiyo.png" width="300">
+  <img src="assets/zhuang_fangyi.jpg" width="300">
 </p>
 
 <p align="center">
