@@ -111,6 +111,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/raiden.jpg" width="300">
   <img src="assets/raiden_playing.jpg" width="300">
   <img src="assets/rayquaza.png" width="300">
+  <img src="assets/ronova.png" width="300">
   <img src="assets/scenery.jpg" width="300">
   <img src="assets/scissors.jpg" width="300">
   <img src="assets/selena_pgr.png" width="300">
