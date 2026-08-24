@@ -43,6 +43,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/aesthetic_baloon.jpg" width="300">
   <img src="assets/aesthetic_sky.jpg" width="300">
   <img src="assets/akane_banner.jpg" width="300">
+  <img src="assets/amiya.png" width="300">
   <img src="assets/angel_monotone.jpg" width="300">
   <img src="assets/asuka.jpg" width="300">
   <img src="assets/asuka_clearsky.jpg" width="300">
@@ -120,6 +121,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/toji_black.png" width="300">
   <img src="assets/totoro.jpg" width="300">
   <img src="assets/train_wreck.jpg" width="300">
+  <img src="assets/washiya0.jpg" width="300">
   <img src="assets/zhuang_fangyi.jpg" width="300">
 </p>
 
